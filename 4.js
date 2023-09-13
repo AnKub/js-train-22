@@ -30,3 +30,5 @@ console.log("Завдання 4 ====================================");
 // console.log(honeyTea.name); // Виводить нову назву напою
 // console.log(honeyTea.price); // Виводить нову вартість напою
 // honeyTea.prepare(); // Готує напій з медом
+
+
